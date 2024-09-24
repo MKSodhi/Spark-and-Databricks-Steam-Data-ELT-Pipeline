@@ -41,7 +41,7 @@ This project was developed for study purposes in **Apache Spark** and **Databric
 
 Here is a screenshot of the Databricks notebook used for this project:
 
-![Databricks Notebook](images/Print_Databricks.png)
+![Databricks Notebook](images/print_databricks.png)
 
 ## Conclusion
 
